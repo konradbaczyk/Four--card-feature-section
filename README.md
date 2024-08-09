@@ -7,5 +7,5 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Github with code](https://github.com/konradbaczyk/Recipe-page)
-- Live site URL: [Live site](https://konradbaczyk.github.io/Recipe-page/)
+- Solution URL: [Github with code](https://github.com/konradbaczyk/Four-card-feature-section)
+- Live site URL: [Live site](https://konradbaczyk.github.io/Four-card-feature-section/)
